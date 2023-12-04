@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-0dc4ec9a","path":"/scenic/yts/","title":"海上云台山","lang":"zh-CN","frontmatter":{"title":"海上云台山","lang":"zh-CN"},"headers":[],"git":{"updatedTime":1701608184000,"contributors":[{"name":"[zjc123456]","email":"[zjc]","commits":1}]},"filePathRelative":"scenic/yts/README.md","excerpt":""}');export{t as data};
