@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-0dbd017e","path":"/scenic/hgs/","title":"花果山","lang":"zh-CN","frontmatter":{"title":"花果山","lang":"zh-CN"},"headers":[],"git":{"updatedTime":1701608184000,"contributors":[{"name":"[zjc123456]","email":"[zjc]","commits":1}]},"filePathRelative":"scenic/hgs/README.md","excerpt":""}');export{e as data};
